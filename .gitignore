@@ -1,0 +1,7 @@
+.env
+recordings/*.wav
+recordings/bad/*.wav
+recordings/bad/bads/*.wav
+LC76G/c/bin/*
+.vscode
+process/__pycache__
